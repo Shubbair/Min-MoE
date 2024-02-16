@@ -17,6 +17,7 @@ MoE variants :
 5) **Hierarchical MoE** : multi-layer of expertise models.
 
 MoE module output : 
+
 $$
 y = \sum_{i=1}^{n-1} G(x) - E_i(x)
 $$
