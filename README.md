@@ -18,7 +18,7 @@ MoE variants :
 
 MoE module output : 
 $$
-y =\sum_{i=1}^{n-1} G(x) - E_i(x)
+y = \sum_{i=1}^{n-1} G(x) - E_i(x)
 $$
 
 G(x) denotes the n-dimensional output of the gating network for the i-th expert
